@@ -19,9 +19,3 @@ $ls
 $cd Donefb
 
 $python2 Donefb.y
-
-
--Download Lisensinya disini : https://autoratio.com/ZNe5P
-
--How to download ?
-https://youtu.be/-yw1-XionnU
