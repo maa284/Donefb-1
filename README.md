@@ -18,4 +18,5 @@ $ls
 
 $cd Donefb
 
-$python2 Donefb.y
+$python2 Donefb.py
+
